@@ -5,8 +5,11 @@ This repository contains the data and code supporting the article “Tourism Att
 International tourism is a strategic economic sector, yet most existing competitiveness indicators are unilateral and fail to capture the inherently bilateral nature of tourism flows. This study bridges that gap by developing a bilateral tourism attractiveness index for 506 country pairs within the G20 and BRICS+ blocs.
 
 The proposed index integrates three complementary dimensions:
+
 (i) objective characteristics of tourism destinations;
-(ii) measurable bilateral frictions represented by continuous indicators of geographic, cultural, linguistic, and religious distance; and
+
+(ii) measurable bilateral frictions represented by continuous indicators of geographic, cultural, linguistic, and religious distance;
+
 (iii) qualitative perceptions extracted from online user-generated content.
 
 Sentiment analysis was performed on 223,212 TripAdvisor reviews using a RoBERTa transformer model to capture tourists’ subjective evaluations. These results were incorporated into the index as an additional informational layer.
